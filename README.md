@@ -27,12 +27,12 @@ SAMS is a Java-based console application designed to manage class sections, main
 
  File Structure
 SAMS/
-├── RunProgram.java      # Main entry point to launch the application
-├── Program.java         # Initializes authentication and routes to HomePage
-├── Login.java           # Authentication handler validating against Password.txt
-├── HomePage.java        # Main dashboard displaying loaded class lists
-├── ClassModify.java     # Class management workflow (Add, Edit, Delete)
-├── Information.java     # In-memory storage arrays for Classes and Students
-├── QualityOfLife.java   # Formatting helpers (screen clearing, headers)
-├── Classes.txt          # File database storing class/section records
-└── Password.txt         # File database storing system access password
+├── RunProgram.java      # Main entry point to launch the application /
+├── Program.java         # Initializes authentication and routes to HomePage /
+├── Login.java           # Authentication handler validating against Password.txt /
+├── HomePage.java        # Main dashboard displaying loaded class lists /
+├── ClassModify.java     # Class management workflow (Add, Edit, Delete) /
+├── Information.java     # In-memory storage arrays for Classes and Students /
+├── QualityOfLife.java   # Formatting helpers (screen clearing, headers) /
+├── Classes.txt          # File database storing class/section records /
+└── Password.txt         # File database storing system access password /
