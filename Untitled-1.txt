@@ -1,0 +1,175 @@
+Student Attendance Monitoring System
+
+
+Process
+1. Login - password only
+
+    --------------------------------------------
+    --- Student Attendance Monitoring System ---
+    --------------------------------------------
+
+    Enter password:
+
+
+2. Home page - shows class
+
+    --------------------------------------------
+    --- Student Attendance Monitoring System ---
+    --------------------------------------------
+            Press [0] to modify Classes
+
+    [1] CS201 | Computer Programming 2
+    [2] IT201 | Computer Programming 2
+
+
+2.a Press [0] to modify Classes
+
+    --------------------------------------------
+    --- Student Attendance Monitoring System ---
+    --------------------------------------------
+                    Classes
+
+    [1] Add class
+    [2] Edit class
+    [3] Remove class
+
+
+    2.a [1]
+
+        --------------------------------------------
+        --- Student Attendance Monitoring System ---
+        --------------------------------------------
+                        Add class
+
+        Enter section name:
+        Enter course name
+
+        *cs201,computer programming 2
+
+
+    2.a [2]
+
+        --------------------------------------------
+        --- Student Attendance Monitoring System ---
+        --------------------------------------------
+                        Edit class
+
+        [1] CS201 | Computer Programming 2
+        [2] IT201 | Computer Programming 2
+
+
+        2.a [1]
+
+            --------------------------------------------
+            --- Student Attendance Monitoring System ---
+            --------------------------------------------
+                    CS201 | Computer Programming 2
+                    
+            Enter new section name:
+            Enter new course name:
+
+
+    2.a [3]
+
+        --------------------------------------------
+        --- Student Attendance Monitoring System ---
+        --------------------------------------------
+                        Remove class
+        
+        [1] CS201 | Computer Programming 2
+        [2] IT201 | Computer Programming 2
+
+        2.a [1]
+
+            --------------------------------------------
+            --- Student Attendance Monitoring System ---
+            --------------------------------------------
+                    CS201 | Computer Programming 2
+                    
+            Are you sure about that Y/N:
+
+
+3. Student Attendance Monitoring System
+
+    --------------------------------------------
+    --- Student Attendance Monitoring System ---
+    --------------------------------------------
+            Press [0] to modify student/s
+    
+    CS201
+    Computer Programming 2
+
+                        Name                   | Attendance | Grade | Date |
+    Cruzzz                                     |            | 2.00  |      |
+    Cruzzz                                     |            | 2.00  |      |
+    Cruzzz                                     |            | 2.00  |      |
+    Marcus                                     |            | 2.00  |      |
+    Marcus                                     |            | 2.00  |      |
+
+    What do you want to do?
+
+    *present,absent,late,excused
+
+3.a [0]
+
+    --------------------------------------------
+    --- Student Attendance Monitoring System ---
+    --------------------------------------------
+                    Student
+
+    [1] Add class
+    [2] Edit class
+    [3] Remove class
+
+
+    3.a [1]
+
+        --------------------------------------------
+        --- Student Attendance Monitoring System ---
+        --------------------------------------------
+                        Add student
+
+        Enter student name:
+        Enter student grade:
+
+        *marcus,2.00
+
+    3.a [2]
+
+        --------------------------------------------
+        --- Student Attendance Monitoring System ---
+        --------------------------------------------
+                        Edit student
+
+        Enter student name:
+
+
+        3.a
+
+            --------------------------------------------
+            --- Student Attendance Monitoring System ---
+            --------------------------------------------
+                        Edit student
+
+            Enter new student name:
+            Enter new student grade:
+
+            *marcus,2.00
+
+    3.a [3]
+
+        --------------------------------------------
+        --- Student Attendance Monitoring System ---
+        --------------------------------------------
+                        Edit student
+
+        Enter student name:
+
+       3.a
+
+            --------------------------------------------
+            --- Student Attendance Monitoring System ---
+            --------------------------------------------
+                    CS201 | Computer Programming 2
+                    
+            Are you sure about that Y/N:
