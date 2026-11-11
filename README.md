@@ -1,21 +1,20 @@
-# Library-Management-System
+Library-Management-System
 A Java-based console application for managing class sections, student records, and tracking attendance using flat-file storage.
 
-# Student Attendance Monitoring System (SAMS)
+Student Attendance Monitoring System (SAMS)
 
-SAMS is a Java-based console application designed to manage class sections, maintain student records, and streamline attendance monitoring[cite: 3, 4, 8]. The system utilizes a flat-file database approach to save and manage data across user sessions for persistent storage[cite: 1, 2].
+SAMS is a Java-based console application designed to manage class sections, maintain student records, and streamline attendance monitoring. The system utilizes a flat-file database approach to save and manage data across user sessions for persistent storage
 
----
 
-## Features
+ Features
 
-- **Password Authentication**: Restricts unauthorized access with password-protected login[cite: 5].
-- **Class Section Management**: Create, edit, list, and delete class sections and course codes (`Classes.txt`)[cite: 1, 2, 3].
-- **Student Data Handling**: Structure student records linked to corresponding courses and sections[cite: 4].
-- **File Persistence**: Reads and writes section data directly to local text files using Java File I/O[cite: 2, 3].
-- **Console UI**: Clear, menu-driven command-line navigation with title screens and error-handling loops[cite: 2, 3, 8].
+- Password Authentication: Restricts unauthorized access with password-protected login.
+- Class Section Management: Create, edit, list, and delete class sections and course codes (`Classes.txt`).
+- Student Data Handling: Structure student records linked to corresponding courses and sections.
+- File Persistence: Reads and writes section data directly to local text files using Java File I/O.
+- Console UI: Clear, menu-driven command-line navigation with title screens and error-handling loops.
 
----
+
 
  Tech Stack & Architecture
 
